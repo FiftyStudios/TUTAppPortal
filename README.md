@@ -17,6 +17,7 @@ https://discord.gg/hqC3PUrT
 # 機能
 
 * お知らせの通知
+* Discord Webhookでお知らせの内容を送信可能
 * （今後のアップデートで追加）
 
 # 必須要件
