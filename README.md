@@ -13,7 +13,7 @@ https://discord.gg/hqC3PUrT
 
 ソフトのメイン画面
 
-![](https://i.gyazo.com/050e22123d3ce8772366790599a87f58.png)
+![](https://i.gyazo.com/530f60a08d2fb25690ab8710c486fea7.png)
 
 
 
