@@ -39,6 +39,11 @@ Releases から TUTAppPortal_X.X_Release.zip をダウンロードし、解凍�
 3, 起動する: TUT App Portal.exe（アプリケーション）
 ```
 
+# ソースコードについて
+容量の制限によりGoogleドライブにて公開しています。
+
+https://drive.google.com/drive/folders/1BnOLcJccbGKxe1o8n8DLV_4QKyIyfB8d?usp=sharing
+
 # 必ず読んでください
 （TUT App Portal は名前が長いため、ここでは TUTAP と置き換える）
 
