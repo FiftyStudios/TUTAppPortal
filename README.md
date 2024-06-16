@@ -27,8 +27,12 @@ https://discord.gg/hqC3PUrT
 
 # 必須要件
 
-* Windows 10 or 11
+* Windows 11
 * Microsoft Edge
+
+# 非推奨
+
+・Windows 10 ではUIが正常に動作しない場合があります。
 
 # ダウンロードと使用方法
 
