@@ -36,13 +36,13 @@ https://discord.gg/hqC3PUrT
 
 # ダウンロードと使用方法
 
-Releases から TUTAppPortal_X.X_Release.zip をダウンロードし、解凍してください。
+Releases から TUTAppPortal_X.X_Installer.exe をダウンロードし、解凍してください。
 解凍後は「TUT App Portal.exe」をダブルクリックし、実行します。
 
 ```bash
-1, ダウンロード: TUTAppPortal_X.X_Release.zip
-2, 解凍/展開: TUTAppPortal_X.X_Release.zip
-3, 起動する: TUT App Portal.exe（アプリケーション）
+1, ダウンロードする: TUTAppPortal_X.X_Installer.exe
+2, 起動する: TUTAppPortal_X.X_Installer.exe
+3, 完了: TUT App Portal.exe（アプリケーション）
 ```
 
 # ソースコードについて
@@ -51,7 +51,7 @@ Releases から TUTAppPortal_X.X_Release.zip をダウンロードし、解凍�
 https://drive.google.com/drive/folders/1BnOLcJccbGKxe1o8n8DLV_4QKyIyfB8d?usp=sharing
 
 # 必ず読んでください
-（TUT App Portal は名前が長いため、ここでは TUTAP と置き換える）
+（TUT App Portal は名前が長いため、ここでは TUTAP と置き換えます）
 
 ### 1. 情報
 * 1.1 ユーザー情報について
