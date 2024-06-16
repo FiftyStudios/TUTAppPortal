@@ -30,8 +30,7 @@ https://discord.gg/hqC3PUrT
 * Windows 11
 * Microsoft Edge
 
-# 非推奨
-
+## 非推奨
 ・Windows 10 ではUIが正常に動作しない場合があります。
 
 # ダウンロードと使用方法
@@ -83,3 +82,7 @@ Windowsのみの対応です。
 # 使用しているライブラリ
 * Microsoft.Playwright
 * FontAwesome.Sharp
+
+# 自前ライブラリ
+* Flow
+* TUT24API
